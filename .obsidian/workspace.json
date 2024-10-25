@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "8287e0bd4942389b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a29e9baab6d612c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7459865138e78d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EDA1/Aula 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1cfde13653cf72b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1631a99dd69a2b29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "211b3afd8c118a52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "e859feab73924597",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "634d72a7f80985ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "7bb4c59f4e73a53c",
+    "type": "split",
+    "children": [
+      {
+        "id": "51eac83b6d7210e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcf79d45ad25d601",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Testes/Aula 0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Aula 0"
+            }
+          },
+          {
+            "id": "9c3adcce3e35328b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Isaac Newton.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Isaac Newton"
+            }
+          },
+          {
+            "id": "82c5ecd866c8718f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd4701fe20476acd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Isaac Newton.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Isaac Newton"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "211b3afd8c118a52",
+  "lastOpenFiles": [
+    "EDA1/Aula 3.md",
+    "EDA1/Aula 1.md",
+    "EDA1/Aula 2.md",
+    "Testes/Assets/Pasted image 20241016183844.png",
+    "Testes/Assets/Pasted image 20241016181505.png",
+    "EDA1/Assets/Pasted image 20241024205627.png",
+    "EDA1/Assets/Pasted image 20241024205750.png",
+    "EDA1/Assets/Pasted image 20241024204904.png",
+    "EDA1/Assets/Pasted image 20241024205406.png",
+    "EDA1/Assets/Pasted image 20241024205115.png",
+    "EDA1/Assets/Pasted image 20241024205010.png",
+    "IHC/Untitled.md",
+    "Testes/Aula 0.md",
+    "Testes/Aula 1.md",
+    "Testes/testes.canvas",
+    "Testes/Assets/Pasted image 20241016184851.png",
+    "Testes/Assets",
+    "EDA1/Assets",
+    "EDA1/Assets/Pasted image 20241022221305.png",
+    "Sem título.canvas",
+    "EDA1",
+    "asdf.md",
+    "[testes.canvas",
+    "Tres leis do movimento.md",
+    "Lei da inercia.md",
+    "Obsidian.md",
+    "Isaac Newton.md",
+    "Testes",
+    "IHC"
+  ]
+}
