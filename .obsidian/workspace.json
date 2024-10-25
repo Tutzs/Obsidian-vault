@@ -88,12 +88,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ca29e2c6190c4d76",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "fcf79d45ad25d601",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testes/Aula 0.md",
+                "file": "EDA1/Aula 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Aula 0"
+              "title": "Links inversos para Aula 2"
             }
           },
           {
@@ -149,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "211b3afd8c118a52",
+  "active": "ca29e2c6190c4d76",
   "lastOpenFiles": [
     "EDA1/Aula 3.md",
     "EDA1/Aula 1.md",
