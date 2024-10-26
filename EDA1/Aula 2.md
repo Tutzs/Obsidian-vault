@@ -1,4 +1,4 @@
-sistema binário 
+Sistema binário 
 - 0 baixa tensão
 - 1 alta tensão
 

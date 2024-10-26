@@ -112,7 +112,6 @@ no *ultimo;
 
 ![[Pasted image 20241024205750.png]]
 
-
 ## Resumão/relembrando
 
 Listas estáticas (array): 

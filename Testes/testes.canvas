@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1b0d2c0fadc47297","x":-120,"y":-200,"width":240,"height":60,"type":"text","text":"Necessidades do cliente"},
+		{"id":"1b0d2c0fadc47297","type":"text","text":"Necessidades do cliente","x":-120,"y":-200,"width":240,"height":60},
 		{"id":"fe6673ba979acf54","type":"text","text":"Validação ","x":-380,"y":-230,"width":140,"height":60},
 		{"id":"49dd31de2546a06a","type":"text","text":"Validação ","x":-450,"y":65,"width":140,"height":50},
 		{"id":"86c5ceaf218e32e2","type":"text","text":"Sistema","x":-80,"y":220,"width":160,"height":50},
@@ -8,7 +8,7 @@
 		{"id":"2723f66733eac783","type":"text","text":"Requisitos do produto/componente","x":-120,"y":85,"width":240,"height":60},
 		{"id":"d80ab6bf51c10cea","type":"text","text":"Verificação","x":240,"y":-140,"width":160,"height":55},
 		{"id":"b1327dd4544128d2","type":"text","text":"Verificação","x":240,"y":195,"width":160,"height":50},
-		{"id":"feb9c5d7185d1eb5","x":-500,"y":270,"width":300,"height":150,"type":"text","text":"- Verifica se o software está de acordo com suas especializações\n- atende aos requisitos?"},
+		{"id":"feb9c5d7185d1eb5","type":"text","text":"- Verifica se o software está de acordo com suas especializações\n- atende aos requisitos?","x":-500,"y":270,"width":300,"height":150},
 		{"id":"13082ab8e86d20ad","type":"text","text":"- Assegura que o software atenda às expectativas dos clientes \n- Vai além da especificação \n- Conhecimento do domínio","x":240,"y":335,"width":290,"height":170}
 	],
 	"edges":[
