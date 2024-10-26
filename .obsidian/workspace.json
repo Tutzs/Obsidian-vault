@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDA1/Aula 3.md",
+                "file": "Testes/Aula 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 3"
+              "title": "Aula 1"
             }
           }
         ]
@@ -174,11 +174,11 @@
   },
   "active": "a7459865138e78d3",
   "lastOpenFiles": [
-    "EDA1/Aula 2.md",
-    "EDA1/Aula 3.md",
-    "EDA1/Aula 1.md",
-    "Testes/testes.canvas",
     "Testes/Aula 0.md",
+    "EDA1/Aula 3.md",
+    "EDA1/Aula 2.md",
+    "EDA1/Aula 1.md",
+    "Testes/Assets/testes.canvas",
     "Testes/Aula 1.md",
     "Testes/Assets/Pasted image 20241016183844.png",
     "Testes/Assets/Pasted image 20241016181505.png",
