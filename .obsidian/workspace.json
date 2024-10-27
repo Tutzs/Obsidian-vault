@@ -11,13 +11,14 @@
             "id": "a7459865138e78d3",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Testes/Assets/testes.canvas",
-                "staged": false
+                "file": "Testes/Aula 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (testes.canvas)"
+              "icon": "lucide-file",
+              "title": "Aula 1"
             }
           }
         ]
@@ -171,10 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca29e2c6190c4d76",
+  "active": "a7459865138e78d3",
   "lastOpenFiles": [
-    "Testes/Aula 1.md",
     "Testes/Aula 0.md",
+    "Testes/Aula 1.md",
     "EDA1/Aula 3.md",
     "EDA1/Aula 2.md",
     "EDA1/Aula 1.md",
