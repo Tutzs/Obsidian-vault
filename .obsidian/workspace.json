@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a29e9baab6d612c7",
+        "id": "1dd7bab1e5958fad",
         "type": "tabs",
         "children": [
           {
-            "id": "a7459865138e78d3",
+            "id": "4789aa9948601192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testes/Aula 1.md",
+                "file": "UnB/Testes/Aula 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,7 +35,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "211b3afd8c118a52",
+            "id": "0cf4a60f04300248",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -70,7 +70,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -172,36 +172,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7459865138e78d3",
+  "active": "0cf4a60f04300248",
   "lastOpenFiles": [
-    "Testes/Aula 0.md",
-    "Testes/Aula 1.md",
-    "EDA1/Aula 3.md",
-    "EDA1/Aula 2.md",
-    "EDA1/Aula 1.md",
-    "Testes/Assets/testes.canvas",
-    "Testes/Assets/Pasted image 20241016183844.png",
-    "Testes/Assets/Pasted image 20241016181505.png",
-    "EDA1/Assets/Pasted image 20241024205627.png",
-    "EDA1/Assets/Pasted image 20241024205750.png",
-    "EDA1/Assets/Pasted image 20241024204904.png",
-    "EDA1/Assets/Pasted image 20241024205406.png",
-    "EDA1/Assets/Pasted image 20241024205115.png",
-    "EDA1/Assets/Pasted image 20241024205010.png",
-    "IHC/Untitled.md",
-    "Testes/Assets/Pasted image 20241016184851.png",
-    "Testes/Assets",
-    "EDA1/Assets",
-    "EDA1/Assets/Pasted image 20241022221305.png",
+    "UnB",
+    "Sem título 2",
+    "Sem título 1",
+    "UnB/IHC/Untitled.md",
+    "UnB/Testes/Aula 1.md",
+    "UnB/Testes/Aula 0.md",
+    "UnB/EDA1/Aula 2.md",
+    "UnB/EDA1/Aula 1.md",
+    "UnB/EDA1/Aula 3.md",
+    "UnB/Testes/Assets/testes.canvas",
+    "UnB/Testes/Assets/Pasted image 20241016183844.png",
+    "UnB/Testes/Assets/Pasted image 20241016181505.png",
+    "UnB/EDA1/Assets/Pasted image 20241024205627.png",
+    "UnB/EDA1/Assets/Pasted image 20241024205750.png",
+    "UnB/EDA1/Assets/Pasted image 20241024204904.png",
+    "UnB/EDA1/Assets/Pasted image 20241024205406.png",
+    "UnB/EDA1/Assets/Pasted image 20241024205115.png",
+    "UnB/EDA1/Assets/Pasted image 20241024205010.png",
+    "UnB/Testes/Assets/Pasted image 20241016184851.png",
+    "UnB/Testes/Assets",
+    "UnB/EDA1/Assets",
+    "UnB/EDA1/Assets/Pasted image 20241022221305.png",
     "Sem título.canvas",
-    "EDA1",
+    "UnB/EDA1",
     "asdf.md",
     "[testes.canvas",
     "Tres leis do movimento.md",
     "Lei da inercia.md",
     "Obsidian.md",
     "Isaac Newton.md",
-    "Testes",
-    "IHC"
+    "UnB/Testes",
+    "UnB/IHC"
   ]
 }

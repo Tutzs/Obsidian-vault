@@ -77,7 +77,6 @@ static int c; // local estática
 Alocadas em Data 
 Uma variável alocada estaticamente é válida por toda a vida do programa
 
-
 #### Alocação automática de memória - Stack
 
 Pilha de execução ou chamada
