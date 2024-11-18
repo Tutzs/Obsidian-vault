@@ -164,3 +164,41 @@ Estabilidade? (mantém a ordem relativa?)
 In-place? (espaço adicional)
 - É sim in-place, usa o próprio vetor para ordenar
 
+![[Pasted image 20241117215405.png]]
+
+
+## Bubble Sort
+
+Compara adjacentes:
+
+1 Do início (base), flutuar o item
+2 Ao achar uma "Bolha" maior, esta passa a flutuar
+3 No fim, o maior (ou menor) está no topo: topo--
+4 Volta td de novo
+
+![[Pasted image 20241117215552.png]]
+
+![[Pasted image 20241117215620.png]]
+
+![[Pasted image 20241117215659.png]]
+
+![[Pasted image 20241117221846.png]]
+
+Adaptatividade?
+- Sim, pois a cada iteração, os elementos são comparados entre si sendo possível a identificação da ordenação
+
+Complexidade assintótica?
+- Cerca de N^2/2 comparações e N^2/2 trocas: O(N^2)
+- Pior, médio caso: O(N^2)
+- Melhor caso: O(N)
+
+Adaptatividade X Custo: cada elemento é posicionado até encontrar um maior no subconjunto dos sucessores, não sendo necessário a troca com todos os elementos e a identificação da ordenação total diminui as possíveis comparações posteriores
+
+Estabilidade?
+- Tem trocas com saltos? não
+- Mantém a ordem: logo, estável
+
+In-place?
+- Sim é in-place, por não usar outra estrutura de dados (vetor)
+
+![[Pasted image 20241117222622.png]]
