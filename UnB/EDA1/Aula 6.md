@@ -18,7 +18,6 @@ Conjunto de registros formam as chamadas tabelas de símbolos, map, dicionário,
 	
 ![[Pasted image 20241114180838.png]]
 
-
 #### Busca sequencial
 Método de pesquisa mais simples
 A partir do primeiro registro, pesquisa sequencialmente até encontrar a chave procurada
@@ -94,3 +93,50 @@ Função custo da recorrência
 
 Existe o custo para manter o vetor ordenado
 - Algoritmos de ordenação
+
+### Ordenação de dados 
+
+Ordenação é organização 
+Organização otimiza as buscas
+- Lógica de sequencialidade: previsibilidade
+
+Ordenação de itens (arquivos, estruturas)
+- A chave é a parte do item utilizada como parâmetro/controle de ordenação
+
+Características
+
+1 Complexidade (espacial, temporal)
+- Quadráticos: simples e suficiente para arquivos pequenos
+- Linearítmicos: mais complexos e eficientes para arquivos grandes
+
+2 Estabilidade
+- Mantém a posição relativa dos elementos
+- Não há saltos
+- ![[Pasted image 20241117211913.png]]
+
+3 Adaptatividade 
+- Aproveita a ordenação existente
+- Diminui-se o custo
+
+4 Memória extra
+- In-place: 
+	- Utiliza a própria estrutura
+	- Utiliza a memória extra: pilha de execução, variáveis auxiliares
+- Não in-place
+	- Utiliza mais uma estrutura
+	- Cópia
+
+5 Localização 
+- Interna: todos os dados cabem na memória principal
+- Externa: arquivo grande, é ordenado em pedaços (chunks) que caibam na memória principal
+
+## Selection Sort
+
+#### Selecionar e posicionar
+
+1 Selecionar: o menor item
+2 Posicionar: troque com o primeiro item
+3 Selecionar; o segundo menor item
+4 Posicionar: troque com o segundo item
+5 Repita para os **n** elementos do vetor
+
