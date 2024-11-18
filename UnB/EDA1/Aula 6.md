@@ -140,3 +140,27 @@ Características
 4 Posicionar: troque com o segundo item
 5 Repita para os **n** elementos do vetor
 
+![[Pasted image 20241117213919.png]]
+
+![[Pasted image 20241117213934.png]]
+
+![[Pasted image 20241117213253.png]]
+
+
+![[Pasted image 20241117215239.png]]
+
+
+Complexidade assintótica?
+- Cerca de n^2/2 comparações e N trocas: O( N^2 )
+- Pior, melhor, médio caso: O(n^2)
+
+Adaptabilidade? (aproveita ordenação)
+- Não, pois a cada iteração, cada elemento é comparado somente com o menor
+- Então não é adaptativo
+
+Estabilidade? (mantém a ordem relativa?)
+- Ele tem trocas com saltos, logo não é estável
+
+In-place? (espaço adicional)
+- É sim in-place, usa o próprio vetor para ordenar
+
