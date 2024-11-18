@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Aula 5"
             }
+          },
+          {
+            "id": "e808ab15f1435399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UnB/EDA1/Aula 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,9 +187,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bf1440483510a1a",
+  "active": "e808ab15f1435399",
   "lastOpenFiles": [
+    "Pasted image 20241114183433.png",
+    "UnB/EDA1/Assets/Pasted image 20241114180838.png",
+    "UnB/EDA1/Aula 6.md",
     "Sem título.md",
+    "UnB/EDA1/Assets/Pasted image 20241114181934.png",
+    "UnB/EDA1/Assets/Pasted image 20241114181840.png",
+    "UnB/EDA1/Assets/Pasted image 20241114181829.png",
+    "UnB/EDA1/Assets/Pasted image 20241114181725.png",
+    "UnB/EDA1/Assets/Pasted image 20241114181716.png",
+    "UnB/EDA1/Assets/Pasted image 20241114181704.png",
+    "UnB/EDA1/Assets/Pasted image 20241114181546.png",
     "UnB/EDA1/Aula 5.md",
     "UnB/EDA1/Assets/Pasted image 20241112220634.png",
     "UnB/EDA1/Assets/Pasted image 20241113210224.png",
@@ -189,14 +214,6 @@
     "Sem título 1",
     "UnB/Testes/Aula 0.md",
     "UnB/Testes/Assets/testes.canvas",
-    "UnB/Testes/Assets/Pasted image 20241016183844.png",
-    "UnB/Testes/Assets/Pasted image 20241016181505.png",
-    "UnB/EDA1/Assets/Pasted image 20241024205627.png",
-    "UnB/EDA1/Assets/Pasted image 20241024205750.png",
-    "UnB/EDA1/Assets/Pasted image 20241024204904.png",
-    "UnB/EDA1/Assets/Pasted image 20241024205406.png",
-    "UnB/EDA1/Assets/Pasted image 20241024205115.png",
-    "UnB/EDA1/Assets/Pasted image 20241024205010.png",
     "UnB/Testes/Assets",
     "UnB/EDA1/Assets",
     "Sem título.canvas",
