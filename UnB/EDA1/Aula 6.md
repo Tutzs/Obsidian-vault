@@ -202,3 +202,4 @@ In-place?
 - Sim é in-place, por não usar outra estrutura de dados (vetor)
 
 ![[Pasted image 20241117222622.png]]
+
