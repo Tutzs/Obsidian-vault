@@ -3,13 +3,14 @@ São implementadas através de funções:
 - Que invocam a si mesmas
 - Chamadas de funções recursivas
 
-Concentra-se na solução do núcleo do problema, sendo as partes resolvidas pela recursão 
+Concentra-se na solução do núcleo do problema, sendo as partes resolvidas pela recursão
+
 O problema é dividido em partes, que são resolvidas aplicando-se a mesma solução/fórmula
 - Repetidas aplicações da mesma solução para diversas partes
 
 Importante: condição de parada é necessária para terminar a recursão
 
-Sistemas atuais contribuem no processamento das recursiviadades:
+Sistemas atuais contribuem no processamento das recursividades:
 - Compiladores eficientes: otimizações contribuem para o uso eficiente dos recursos
 - Stacks: possibilitaram o empilhamento das funções
 

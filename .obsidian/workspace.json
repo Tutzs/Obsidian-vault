@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "66c77543f5563305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notação assintótica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notação assintótica"
+            }
+          },
+          {
             "id": "6578aefc08b81bf6",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Aula 6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,15 +201,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a2179c582872135",
+  "active": "66c77543f5563305",
   "lastOpenFiles": [
-    "UnB/EDA1/Aula 6.md",
     "UnB/EDA1/Ribas.md",
+    "Notação assintótica.md",
+    "UnB/EDA1/Aula 6.md",
     "UnB/EDA1/Aula 5.md",
+    "UnB/EDA1/Aula 4.md",
+    "UnB/EDA1/Aula 3.md",
+    "UnB/EDA1/Aula 2.md",
+    "UnB/EDA1/Aula 1.md",
     "UnB/EDA1/Aula 7.md",
     "UnB/EDA1/Aula 8.md",
     "UnB/EDA1/Aula 9.md",
-    "UnB/EDA1/Aula 1.md",
     "UnB/EDA1/Assets/Pasted image 20241117222622.png",
     "UnB/EDA1/Assets/Pasted image 20241117221846.png",
     "UnB/EDA1/Assets/Pasted image 20241117215659.png",
@@ -206,9 +225,6 @@
     "UnB/EDA1/Assets/Pasted image 20241117213934.png",
     "UnB/EDA1/Assets/Pasted image 20241117213919.png",
     "UnB/IHC/Aula 0.md",
-    "UnB/EDA1/Aula 4.md",
-    "UnB/EDA1/Aula 3.md",
-    "UnB/EDA1/Aula 2.md",
     "UnB/Testes/Aula 1.md",
     "UnB",
     "Sem título 2",

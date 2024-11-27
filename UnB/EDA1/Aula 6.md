@@ -7,7 +7,7 @@ Objetivo:
 
 Conjunto de registros formam as chamadas tabelas de símbolos, map, dicionário, vetor associativo
 - Coleção de pares de chave-valor
-- Mecanismo abstrato para armazenar informações que podem ser acessaadas através de uma chave 
+- Mecanismo abstrato para armazenar informações que podem ser acessadas através de uma chave 
 - Exemplo:
 	- Busca sequencial
 	- Busca binária
@@ -149,6 +149,19 @@ Características
 
 ![[Pasted image 20241117215239.png]]
 
+```C
+void selecionSort(int v[], int l, int r){
+	int menor;
+	for (int i = l; i < r; i++){
+		for (int j=i+1; j<=r; j++){
+		if (v[j] < v[menor])
+			menor = j;
+		}
+		if (i != menor){
+		exch(v[i], v[menor])}
+}
+}
+```
 
 Complexidade assintótica?
 - Cerca de n^2/2 comparações e N trocas: O( N^2 )
@@ -165,7 +178,6 @@ In-place? (espaço adicional)
 - É sim in-place, usa o próprio vetor para ordenar
 
 ![[Pasted image 20241117215405.png]]
-
 
 ## Bubble Sort
 
@@ -184,6 +196,21 @@ Compara adjacentes:
 
 ![[Pasted image 20241117221846.png]]
 
+```C
+void bubbleSort(int v[], int l, int r){
+	int swap = 1;
+	while (r > l && swap){
+		swap = 0; 
+		for (int j = l; j<r; j++){
+			if (v[j] > v[j+1]){
+				exch(v[j], v[j+1])
+				swap = 1;
+				}
+			}
+		r--;
+	}
+}
+```
 Adaptatividade?
 - Sim, pois a cada iteração, os elementos são comparados entre si sendo possível a identificação da ordenação
 
