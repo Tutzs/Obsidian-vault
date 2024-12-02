@@ -25,14 +25,12 @@
             "id": "66c77543f5563305",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notação assintótica.md",
-                "mode": "source",
-                "source": false
+                "file": "UnB/EDA1/Assets/Pasted image 20241202093356.png"
               },
-              "icon": "lucide-file",
-              "title": "Notação assintótica"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241202093356"
             }
           },
           {
@@ -201,29 +199,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66c77543f5563305",
+  "active": "0cf4a60f04300248",
   "lastOpenFiles": [
+    "UnB/EDA1/Aula 7.md",
+    "UnB/EDA1/Assets/Pasted image 20241202094413.png",
+    "UnB/EDA1/Assets/Pasted image 20241202093532.png",
+    "UnB/EDA1/Assets/Pasted image 20241202093520.png",
+    "UnB/EDA1/Assets/Pasted image 20241202093506.png",
+    "UnB/EDA1/Assets/Pasted image 20241202093456.png",
+    "UnB/EDA1/Assets/Pasted image 20241202093420.png",
+    "UnB/EDA1/Assets/Pasted image 20241202093356.png",
+    "UnB/EDA1/Aula 8.md",
+    "UnB/EDA1/Aula 9.md",
     "UnB/EDA1/Ribas.md",
-    "Notação assintótica.md",
+    "UnB/EDA1/Notação assintótica.md",
     "UnB/EDA1/Aula 6.md",
     "UnB/EDA1/Aula 5.md",
     "UnB/EDA1/Aula 4.md",
     "UnB/EDA1/Aula 3.md",
     "UnB/EDA1/Aula 2.md",
     "UnB/EDA1/Aula 1.md",
-    "UnB/EDA1/Aula 7.md",
-    "UnB/EDA1/Aula 8.md",
-    "UnB/EDA1/Aula 9.md",
     "UnB/EDA1/Assets/Pasted image 20241117222622.png",
     "UnB/EDA1/Assets/Pasted image 20241117221846.png",
     "UnB/EDA1/Assets/Pasted image 20241117215659.png",
-    "UnB/EDA1/Assets/Pasted image 20241117215620.png",
-    "UnB/EDA1/Assets/Pasted image 20241117215552.png",
-    "UnB/EDA1/Assets/Pasted image 20241117215405.png",
-    "UnB/EDA1/Assets/Pasted image 20241117211913.png",
-    "UnB/EDA1/Assets/Pasted image 20241117215239.png",
-    "UnB/EDA1/Assets/Pasted image 20241117213934.png",
-    "UnB/EDA1/Assets/Pasted image 20241117213919.png",
     "UnB/IHC/Aula 0.md",
     "UnB/Testes/Aula 1.md",
     "UnB",
