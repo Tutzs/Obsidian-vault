@@ -60,10 +60,6 @@ Selection
 
 
 
-
-
-
-
 ```C
 void insertionSort(int v[], int l, int r){
 	for (int i=l+1; i<=r; i++){
