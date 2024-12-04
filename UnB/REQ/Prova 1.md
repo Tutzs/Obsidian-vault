@@ -4,7 +4,6 @@ Relacionamentos humanos que irão gerar conversas
 
 Pessoas agem de dado momento e certa situação
 
-
 #### Necessidade Vs Desejo
 
 Os desejos podem ser:
@@ -153,7 +152,6 @@ Requisitos estão no sistema social da organização cliente
 
 Objetivos da ER:
 - Captura dos requisitos necessários para a construção do software
-
 
 #### Os processos e atividades da ER podem variar amplamente dependendo do...
 
