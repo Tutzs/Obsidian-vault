@@ -6,7 +6,6 @@ Caso um desses dois elos seja rompido, o sucesso do trabalho da equipe, na engen
 ![[Pasted image 20241203131731.png]]
 
 
-
 Necessidade vs Desejo
 
 Os desejos dos usuários podem:
@@ -24,7 +23,6 @@ As necessidades podem ser:
 - Ser obtidas a partir dos problemas identificados e restrições do projeto
 - Gerar requisitos necessários
 - Agregar valor
-
 
 Se o desejo não for atendido: 
 - A organização não é prejudicada
