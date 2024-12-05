@@ -157,4 +157,4 @@ Objetivos da ER:
 
 ![[Pasted image 20241203203055.png]]
 
-- O processo
+- O processo do desenvolvimento é orientado a planos, principalmente, linear -> requisitos são claros, estáveis e conhecidos à priori. Esse processo implica longos ciclos de feedback (validação intensiva de requisitos)
