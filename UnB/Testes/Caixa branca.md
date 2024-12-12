@@ -1,4 +1,4 @@
-********
+
 Teste caixa branca -> teste estrutural
 - Grafos de fluxo de controle (GFC)
 - Critérios de fluxo de controle
