@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d27bdf662f4da2e4",
+        "id": "ae56bc20baebbe0d",
         "type": "tabs",
         "children": [
           {
-            "id": "403788f1e075fe30",
+            "id": "1cfb37f3e200e6d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,22 +172,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "403788f1e075fe30",
+  "active": "1cfb37f3e200e6d9",
   "lastOpenFiles": [
     "UnB/Testes/Aula 1.md",
-    "UnB/Testes/Aula 0.md",
+    "UnB/Testes/Assets/Pasted image 20241210131752.png",
+    "UnB/Testes/Assets/Pasted image 20241210221308.png",
+    "UnB/Testes/Assets/Pasted image 20241210132248.png",
     "UnB/Testes/Caixa branca.md",
+    "UnB/Testes/Aula 0.md",
     "UnB/EDA1/Prova2/Aula 1.md",
     "UnB/EDA1/Prova1/Aula 1.md",
-    "Pasted image 20241210221308.png",
     "UnB/EDA1/Prova2",
     "UnB/EDA1/Prova1/Aula 9.md",
     "UnB/EDA1/Prova1",
     "UnB/EDA1/Notação assintótica.md",
     "UnB/IHC/Aula 0.md",
     "UnB/REQ/Prova 1.md",
-    "Pasted image 20241210132248.png",
-    "Pasted image 20241210131752.png",
     "UnB/EDA1/Prova1/Aula 7.md",
     "UnB/EDA1/Prova1/Aula 6.md",
     "UnB/EDA1/Prova1/Aula 8.md",
