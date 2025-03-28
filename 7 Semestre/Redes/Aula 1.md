@@ -6,14 +6,17 @@
 - Comunicação entre uma ou mais máquinas que estão ligadas via cabo ou não, e a partir disso temos uma comunicação via IP
 - Comunicação de 2 ou mais computadores utilizando um protocolo comum, IP
 
-TCP, *transmission control protocol*,
+TCP, *transmission control protocol*
 
+Tudo que estiver conectado na mesma rede, no mesmo protocolo, lâmpada, celular, computador, ar-condicionado
+
+Toda comunicação é feita pelo IP (*Internet Protocol*)
 
 É um conjunto de duas ou mais máquinas interligadas entre si na mesma rede tendo em comum o IP.
 Permitindo usuários compartilharem recursos, como arquivos, impressoras e acesso à internet
 
 ## Importância das redes de computadores
-
+Importante para manter as conexões entre as máquinas
 
 ## Tipos de redes de computadores
 Com fio e sem fio
