@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"1b0d2c0fadc47297","type":"text","text":"Necessidades do cliente","x":-120,"y":-200,"width":240,"height":60},
+		{"id":"fe6673ba979acf54","type":"text","text":"Validação ","x":-380,"y":-230,"width":140,"height":60},
+		{"id":"49dd31de2546a06a","type":"text","text":"Validação ","x":-450,"y":65,"width":140,"height":50},
+		{"id":"86c5ceaf218e32e2","type":"text","text":"Sistema","x":-80,"y":220,"width":160,"height":50},
+		{"id":"95c5e88fe472d27b","type":"text","text":"Requisitos do cliente","x":-120,"y":-65,"width":240,"height":60},
+		{"id":"2723f66733eac783","type":"text","text":"Requisitos do produto/componente","x":-120,"y":85,"width":240,"height":60},
+		{"id":"d80ab6bf51c10cea","type":"text","text":"Verificação","x":240,"y":-140,"width":160,"height":55},
+		{"id":"b1327dd4544128d2","type":"text","text":"Verificação","x":240,"y":195,"width":160,"height":50},
+		{"id":"feb9c5d7185d1eb5","type":"text","text":"- Verifica se o software está de acordo com suas especializações\n- atende aos requisitos?","x":-500,"y":270,"width":300,"height":150},
+		{"id":"13082ab8e86d20ad","type":"text","text":"- Assegura que o software atenda às expectativas dos clientes \n- Vai além da especificação \n- Conhecimento do domínio","x":240,"y":335,"width":290,"height":170}
+	],
+	"edges":[
+		{"id":"1c1efa2125ad61b7","fromNode":"fe6673ba979acf54","fromSide":"right","toNode":"1b0d2c0fadc47297","toSide":"left"},
+		{"id":"027a3fee8ba5f8cf","fromNode":"1b0d2c0fadc47297","fromSide":"bottom","toNode":"95c5e88fe472d27b","toSide":"top"},
+		{"id":"85b2fddc2af6b913","fromNode":"d80ab6bf51c10cea","fromSide":"left","toNode":"95c5e88fe472d27b","toSide":"right"},
+		{"id":"2c2adc3cfe240d25","fromNode":"95c5e88fe472d27b","fromSide":"right","toNode":"2723f66733eac783","toSide":"right"},
+		{"id":"8ca6bc3ed75b6eb3","fromNode":"b1327dd4544128d2","fromSide":"left","toNode":"2723f66733eac783","toSide":"right"},
+		{"id":"ab58017d6c8b9a38","fromNode":"1b0d2c0fadc47297","fromSide":"left","toNode":"86c5ceaf218e32e2","toSide":"left"},
+		{"id":"37b48c50eb65a396","fromNode":"49dd31de2546a06a","fromSide":"right","toNode":"86c5ceaf218e32e2","toSide":"left"},
+		{"id":"f81c11ea37604348","fromNode":"b1327dd4544128d2","fromSide":"bottom","toNode":"13082ab8e86d20ad","toSide":"top"},
+		{"id":"54a7519b3b9dcf40","fromNode":"49dd31de2546a06a","fromSide":"bottom","toNode":"feb9c5d7185d1eb5","toSide":"top"}
+	]
+}

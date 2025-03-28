@@ -28,11 +28,23 @@ __export(main_exports, {
 });
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
+var DEFAULT_SETTINGS = {
+  exclusionList: []
+};
 var AutoCorrectPlugin = class extends import_obsidian.Plugin {
+  constructor() {
+    super(...arguments);
+    this.lastReplacement = null;
+    this.isReplacing = false;
+  }
   async onload() {
     console.log("Loading AutoCorrectPlugin");
+    await this.loadSettings();
+    this.addSettingTab(new AutoCorrectSettingTab(this.app, this));
     this.registerEvent(
       this.app.workspace.on("editor-change", (editor) => {
+        if (this.isReplacing)
+          return;
         const punctuation = [" ", ".", ",", ";", ":", "!", "?", "\n"];
         const doc = editor.getDoc();
         const cursor = doc.getCursor();
@@ -42,23 +54,33 @@ var AutoCorrectPlugin = class extends import_obsidian.Plugin {
         let lastWordMatch;
         if (punctuation.includes(lastChar)) {
           if (lineUpToCursor.length > 0) {
-            lastWordMatch = lineUpToCursor.match(/\b\w+\W*$/);
+            lastWordMatch = lineUpToCursor.match(/[\p{L}\p{M}]+(?=\W*$)/u);
           }
           if (lastWordMatch) {
-            const lastWord = lastWordMatch[0];
-            if (/\b[A-Z]{2}[a-z]+\b/.test(lastWord)) {
-              let uppercaseCount = 0;
-              for (let i = 0; i < lastWord.length; i++) {
-                const char = lastWord[i];
-                if (char === char.toUpperCase() && char !== char.toLowerCase()) {
-                  uppercaseCount++;
-                  if (uppercaseCount === 2) {
-                    const start = cursor.ch - lastWord.length + i;
-                    const end = start + 1;
-                    doc.replaceRange(char.toLowerCase(), { line: cursor.line, ch: start }, { line: cursor.line, ch: end });
-                    return;
-                  }
-                }
+            const lastWordStart = lineUpToCursor.lastIndexOf(lastWordMatch[0]);
+            const lastWord = lastWordMatch[0].trim();
+            if (this.settings.exclusionList.includes(lastWord)) {
+              return;
+            }
+            if (/[\p{Lu}]{2}[\p{Ll}]+/u.test(lastWord)) {
+              if (lastWord.length < 3) {
+                return;
+              }
+              if (lastWord[0] === lastWord[0].toUpperCase() && lastWord[0] !== lastWord[0].toLowerCase() && (lastWord[1] === lastWord[1].toUpperCase() && lastWord[1] !== lastWord[1].toLowerCase()) && (lastWord[2] === lastWord[2].toLowerCase() && lastWord[2] !== lastWord[2].toUpperCase())) {
+                if (this.isInCodeBlock(editor, lastWordStart))
+                  return;
+                const start = lastWordStart + 1;
+                const end = lastWordStart + 2;
+                const replacedChar = lastWord[1].toLowerCase();
+                this.isReplacing = true;
+                this.lastReplacement = {
+                  position: { line: cursor.line, ch: start },
+                  originalChar: lastWord[1],
+                  replacedChar
+                };
+                doc.replaceRange(replacedChar, { line: cursor.line, ch: start }, { line: cursor.line, ch: end });
+                this.isReplacing = false;
+                return;
               }
             }
           }
@@ -66,8 +88,49 @@ var AutoCorrectPlugin = class extends import_obsidian.Plugin {
       })
     );
   }
+  isInCodeBlock(editor, firstCharacterPosition) {
+    const doc = editor.getDoc();
+    const cursor = doc.getCursor();
+    const line = doc.getLine(cursor.line);
+    const linesAbove = doc.getRange({ line: 0, ch: 0 }, { line: cursor.line, ch: 0 });
+    const codeBlockMatches = (linesAbove.match(/```/g) || []).length;
+    if (codeBlockMatches % 2 !== 0) {
+      return true;
+    }
+    const inlineCodeMatches = line.match(/`/g) || [];
+    let backticksCount = 0;
+    for (let i = 0; i < firstCharacterPosition; i++) {
+      if (line[i] === "`") {
+        backticksCount++;
+      }
+    }
+    return backticksCount % 2 !== 0;
+  }
   onunload() {
     console.log("Unloading AutoCorrectPlugin");
+  }
+  async loadSettings() {
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+  }
+  async saveSettings() {
+    await this.saveData(this.settings);
+  }
+};
+var AutoCorrectSettingTab = class extends import_obsidian.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.plugin = plugin;
+  }
+  display() {
+    const { containerEl } = this;
+    containerEl.empty();
+    containerEl.createEl("h2", { text: "AutoCorrect Capitals Misspelling Settings" });
+    new import_obsidian.Setting(containerEl).setName("Exclusion List").setDesc("Add words to this list to prevent them from being autocorrected.").addTextArea(
+      (text) => text.setPlaceholder("separate words with commas").setValue(this.plugin.settings.exclusionList.join(", ")).onChange(async (value) => {
+        this.plugin.settings.exclusionList = value.split(",").map((word) => word.trim());
+        await this.plugin.saveSettings();
+      })
+    );
   }
 };
 
