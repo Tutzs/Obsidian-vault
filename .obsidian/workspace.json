@@ -11,12 +11,14 @@
             "id": "670c822fc31ff579",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "7 Semestre/Qualidade/assets/Pasted image 20250327164305.png"
+                "file": "7 Semestre/Redes/Aula 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250327164305"
+              "icon": "lucide-file",
+              "title": "Aula 1"
             }
           }
         ]
@@ -174,8 +176,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0cf4a60f04300248",
+  "active": "670c822fc31ff579",
   "lastOpenFiles": [
+    "7 Semestre/Redes/Aula 2.md",
+    "7 Semestre/Compiladores",
+    "7 Semestre/HC",
+    "7 Semestre/EDA2",
+    "7 Semestre/Robótica",
+    "7 Semestre/Redes/Aula 1.md",
+    "7 Semestre/Qualidade/assets/Pasted image 20250327164305.png",
     "7 Semestre/Qualidade/Aula 1.md",
     "7 Semestre 1/Redes/assets/Pasted image 20250324214434.png",
     "7 Semestre 1/Redes/assets/Pasted image 20250324214447.png",
@@ -188,20 +197,14 @@
     "7 Semestre 1/Redes",
     "7 Semestre 1/Qualidade",
     "7 Semestre 1",
-    "7 Semestre/Qualidade/assets/Pasted image 20250327164305.png",
     "6 Semestre/IHC/Aula 0.md",
     "6 Semestre/Testes/Assets/testes.canvas",
     "6 Semestre/Testes/Aula 0.md",
     "7 Semestre/Qualidade/assets",
     "7 Semestre/Redes/assets/Pasted image 20250324214447.png",
     "7 Semestre/Redes/assets/Pasted image 20250324214411.png",
-    "7 Semestre/Redes/assets",
-    "7 Semestre/Redes/Aula 1.md",
     "7 Semestre/Redes/assets/Pasted image 20250324214434.png",
     "7 Semestre/Redes/assets/Pasted image 20250324214419.png",
-    "7 Semestre/Redes",
-    "7 Semestre",
-    "6 Semestre",
     "6 Semestre/EDA1/Prova2/Aula 1.md",
     "6 Semestre/EDA1/Prova2/ArvoreYt.md",
     "6 Semestre/EDA1/Prova3/Fila de prioridade.md",
@@ -222,7 +225,6 @@
     "6 Semestre/REQ/Prova 1.md",
     "Requisitos.md",
     "Sem título.canvas",
-    "asdf.md",
     "[testes.canvas"
   ]
 }
