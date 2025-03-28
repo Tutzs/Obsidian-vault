@@ -5,7 +5,7 @@ Produto (QS1) <- interfere -> Processo (MPS) -> Metodologia -> Entendimento do p
 
 - Requisitos -> lista, backlog do produto 
 - Testes -> resultado 
-- Programação
+- Programaçãofff
 - Implantação
 - Planejamento
 
