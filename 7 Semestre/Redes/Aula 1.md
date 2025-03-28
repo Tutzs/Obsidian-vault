@@ -1,8 +1,14 @@
-Redes
-
-Introdução
+# Introdução
 
 ## O que é uma rede de computadores?
+- Cabo azul, não ironicamente.
+- Sala cofre, onde fica o servidor, roteador
+- Comunicação entre uma ou mais máquinas que estão ligadas via cabo ou não, e a partir disso temos uma comunicação via IP
+- Comunicação de 2 ou mais computadores utilizando um protocolo comum, IP
+
+TCP, *transmission control protocol*,
+
+
 É um conjunto de duas ou mais máquinas interligadas entre si na mesma rede tendo em comum o IP.
 Permitindo usuários compartilharem recursos, como arquivos, impressoras e acesso à internet
 
