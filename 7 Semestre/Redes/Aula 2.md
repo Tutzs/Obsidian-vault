@@ -1,13 +1,11 @@
 # Configurações do protocolo TCP/IP para um computador em rede
 
-
-
 # Topologia de rede
 #### Topologia
-refere-se a disposicao fisica dos
+refere-se a disposição física dos
 
 #### O que é IP
-é um protocolo que a gente utiliza para as maquinas se comuniquem, mesmo nao necessariamente tendo internet
+é um protocolo que a gente utiliza para as maquinas se comuniquem, mesmo não necessariamente tendo internet
 
 
 #### Serviços de rede

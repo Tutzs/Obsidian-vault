@@ -76,4 +76,3 @@ Como ela foi concebida, como ela funciona, se é ligado em anel, ligado em séri
 **Access** **Points** permitem que dispositivos se conectem a uma rede Wi-Fi:
 ![[Pasted image 20250324214447.png]]
 
-Visão geral do protocolo TCP/IP

@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{hostname}} commitou na Data: {{date}} e ",
+  "commitMessage": "{{hostname}} commitou na data: {{date}}.",
   "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
@@ -55,5 +55,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "Data: {{date}} e {{hostname}}"
+  "autoCommitMessage": "{{hostname}} commitou na data: {{date}}."
 }
