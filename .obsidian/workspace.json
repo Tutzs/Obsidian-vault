@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb24fa8c91619270",
+        "id": "16e42e3e7ff791bc",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e63173f5fa03fd",
+            "id": "348d49e3e331928e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "7 Semestre/Qualidade/assets/Pasted image 20250331210949.png"
+                "file": "7 Semestre/Redes/Aula 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250331210949"
-            }
-          },
-          {
-            "id": "f6d4cc263aa62398",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-31 21.00.06.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-31 21.00.06.excalidraw"
+              "icon": "lucide-file",
+              "title": "Aula 1"
             }
           }
         ]
@@ -185,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,18 +190,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0cf4a60f04300248",
+  "active": "348d49e3e331928e",
   "lastOpenFiles": [
+    "7 Semestre/Redes/Aula 3.md",
+    "7 Semestre/Redes/Aula 2.md",
+    "7 Semestre/Redes/Aula 1.md",
+    "7 Semestre/Qualidade/Aula 3.md",
     "7 Semestre/Qualidade/Aula 2.md",
     "7 Semestre/Qualidade/assets/Pasted image 20250331210949.png",
     "Excalidraw/Drawing 2025-03-31 21.00.06.excalidraw.md",
-    "7 Semestre/Redes/Aula 1.md",
     "Excalidraw/Drawing 2025-03-31 10.24.29.excalidraw.md",
     "7 Semestre/Qualidade/assets/Pasted image 20250331205941.png",
-    "7 Semestre/Redes/Aula 3.md",
     "Aula 3.md",
-    "7 Semestre/Redes/Aula 2.md",
-    "7 Semestre/Qualidade/Aula 3.md",
     "Excalidraw",
     "7 Semestre/Robótica/Aula.md",
     "7 Semestre/HC/Aula.md",

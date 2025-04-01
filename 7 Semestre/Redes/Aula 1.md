@@ -41,7 +41,6 @@ Computador, servidor, celular, modem, lâmpada inteligente, ar-condicionado, imp
 	- google cloud
 	- dropbox
 	- google drive
-
 ### Para que serve uma rede?
 A rede ela quebra barreiras geográficas e possibilita que informações sejam compartilhadas entre pessoas e empresas do mundo inteiro.
 

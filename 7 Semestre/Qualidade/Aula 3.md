@@ -6,7 +6,6 @@ Processo de desenvolvimento que influencia na qualidade externa e interna que va
 
 métricas
 
-
 - Transcendental
 - Usuário
 	- expectativa 
@@ -41,7 +40,6 @@ Nosso foco está na visão de **produto** na disciplina
 - Portabilidade - Pode ser usado em outro ambiente
 - Reuso - Existem partes que podem ser reusadas
 - Interoperabilidade - Pode fazer interface com outro sistema
-
 #### Operação do produto
  - Corretude 
  - Confiança 
@@ -70,7 +68,6 @@ existe um equilibrio com o tanto de investimento
 Corretude 
 - rastreabilidade
 - completude
-
 
 FURPS
 - funcionabilidade
