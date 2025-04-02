@@ -1,8 +1,11 @@
 # Configurações do protocolo TCP/IP para um computador em rede
 
 # Topologia de rede
-#### Topologia
-refere-se a disposição física dos
+### Topologia física
+é a forma como os dispositivos estão conectados fisicamente
+
+### Topologia lógica
+é a forma como os dados fluem pela rede
 
 #### O que é IP
 é um protocolo que a gente utiliza para as maquinas se comuniquem, mesmo não necessariamente tendo internet

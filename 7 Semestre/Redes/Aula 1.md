@@ -24,7 +24,7 @@ Com fio e sem fio
 ## Faz parte da infraestrutura de TI?
 Faz parte sim
 
-### Conceito
+### Conceito de rede
 Uma rede de computador interligados entre si pelo IP
 Permite que usuários compartilhem recursos como arquivos, impressoras, etc
 
