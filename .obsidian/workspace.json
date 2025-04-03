@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e77526928e126fed",
+        "id": "d5c7884e93178ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "ce1cf36a2fb29ef1",
+            "id": "e1bd9ff89039fdde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Semestre/Qualidade/Aula 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aula 3"
+              "title": "New tab"
             }
           }
         ]
@@ -190,25 +186,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce1cf36a2fb29ef1",
+  "active": "0cf4a60f04300248",
   "lastOpenFiles": [
+    "7 Semestre/Robótica/Aula 3.md",
+    "7 Semestre/Robótica/Aula 2.md",
+    "7 Semestre/Compiladores/Aula 02.04.md",
+    "+ - -.md",
+    "7 Semestre/Qualidade/Aula 3.md",
     "7 Semestre/Qualidade/Aula 2.md",
     "6 Semestre/EDA1/Prova1/Aula 2.md",
     "01-04-2025.md",
     "Untitled Kanban.md",
-    "7 Semestre/Compiladores/Aula 1.md",
     "Excalidraw/Grade.md",
     "Excalidraw/Quali1.md",
-    "Untitled.md",
-    "7 Semestre/Robótica/Aula.md",
-    "7 Semestre/Qualidade/Aula 3.md",
     "Excalidraw/Quali2.md",
     "7 Semestre/Redes/Aula 2.md",
     "7 Semestre/Redes/Aula 1.md",
     "7 Semestre/Redes/Aula 3.md",
     "7 Semestre/Qualidade/assets/Pasted image 20250331210949.png",
     "7 Semestre/Qualidade/assets/Pasted image 20250331205941.png",
-    "Aula 3.md",
     "Excalidraw",
     "7 Semestre/HC/Aula.md",
     "7 Semestre/EDA2/Aula.md",
@@ -238,7 +234,6 @@
     "6 Semestre/EDA1/Prova2/ArvoreYt.md",
     "6 Semestre/EDA1/Prova3/Fila de prioridade.md",
     "6 Semestre/EDA1/Prova1/Aula 8.md",
-    "UnB/EDA1/Prova1/Aula 9.md",
     "Sem título.canvas",
     "[testes.canvas"
   ]
