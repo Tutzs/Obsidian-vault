@@ -1,4 +1,4 @@
-comando '?' é o help, mostra os comandos disponiveis
+comando '?' é o help, mostra os comandos disponíveis
 
 enable 1 modo inicial
 
@@ -11,7 +11,6 @@ para entrar no modo configuração global basta digitar "configurate"
 configuração global modo 3
 
 para voltar de algum modo basta digitar "exit"
-
 #### Switch
 
 para mudar o nome do switch tem q ser no modo 3 e basta digitar "hostname nomeDesejado"
@@ -33,7 +32,7 @@ para ligar dnv basta digitar "no shutdown"
 
 Colocar um banner de aviso de entrada
 
-"banner motd #PROIBIDO ACESSO PARA PESSOAS NAO AUTORIZADOS#"
+"banner motd # PROIBIDO ACESSO PARA PESSOAS NAO AUTORIZADOS#"
 
 para colocar uma senha 
 "line console 0"
@@ -59,6 +58,7 @@ Depois precisamos conectar elas entre si, para isso usamos o cabo *Straight*
 Estão interligados, mas falta configurar o IP das máquinas, acessamos os computadores e clicamos:
 - Desktop
 - IP *configuration*
+
 Digitamos o IP: 192.168.5.3 e automaticamente o programa escreve a máscara de sub-rede sendo 255.255.255.0, pois o IP 192 está na classe C e sempre será configurado com 255.255.255.0
 
 Para testar se está funcionando e conectado, podemos enviar pacotes para teste, enviar PDU (envelopezinho) de um computador a outro, se der *successful* é pq está correto.
