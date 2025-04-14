@@ -1,4 +1,3 @@
-
 Configurações do roteador
 
 Ao entrar no roteador pela primeira vez, devemos responder a pergunta com "no"
