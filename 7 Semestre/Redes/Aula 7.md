@@ -9,6 +9,12 @@ Configurar servidor
 Desktop - IP configuration
 
 # Revisão
+Comando mais simples para salvar as configurações:
+
+```
+do wr
+```
+
 Sabemos configurar roteador, switch, IP manualmente.
 Vamos agora configurar os IP's das máquinas automaticamente usando DHCP (*Dynamic Host Configuration Protocol*). 
 
