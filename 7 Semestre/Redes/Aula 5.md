@@ -89,7 +89,7 @@ Se o terminal estiver ***Switch(config)#*** é por que estamos no modo de config
 
 ##### Configuração global
 Para mostrar comandos de ajuda, temos o **?**, que mostra os possíveis comandos que podemos fazer nesse modo de operação, funcional para todos os outros modos também.
-![[Pasted image 20250407201312.png]]
+![](config.png)
 
 Podemos mudar o nome do switch
 
