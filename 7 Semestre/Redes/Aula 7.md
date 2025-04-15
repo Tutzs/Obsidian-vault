@@ -53,7 +53,9 @@ Máscara de subrede, já vai automaticamente
 E *Maximum Number of Users* podemos deixar 254, ou 100 por enquanto.
 
 Depois clicamos no botão de *save* e está pronto.
+
 ![][./assets/dhcp.png]
+
 Mais ou menos assim.
 
 Agora vamos configurar o IP das máquinas usando o DHCP.
