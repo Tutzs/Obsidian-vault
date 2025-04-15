@@ -65,7 +65,7 @@ Modelo em camadas projetado para fornecer um framework para padronização de co
 - 2 Enlace de dados - Endereço físico/ponte e switches
 - 1 Física - Hardware/sinal elétrico/bits
 
-![](transmissao.png)
+![](assets/transmissao.png)
 
 ### Princípios da divisão
 - Cada camada deve executar funções bem definidas

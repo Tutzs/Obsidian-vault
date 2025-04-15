@@ -64,14 +64,18 @@ Como ela foi concebida, como ela funciona, se é ligado em anel, ligado em séri
 - Modelo TCP/IP - 4 camadas
 
 **Roteadores** conectam diferentes redes entre si, possui processador, memória, SO:
-![](roteador.png)
+
+![](assets/roteador.png)
 
 **Switches** conectam vários dispositivos a uma mesma rede:
-![](firewall.png)
+
+![](assets/firewall.png)
 
 **Firewalls** protegem as redes contra acessos não autorizados
-![](switch.png)
+
+![](assets/switch.png)
 
 **Access** **Points** permitem que dispositivos se conectem a uma rede Wi-Fi:
-![](acess.png)
+
+![](assets/acess.png)
 
