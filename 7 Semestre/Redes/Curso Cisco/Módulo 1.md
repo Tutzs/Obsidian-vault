@@ -67,7 +67,41 @@ Esses sinais trafegam por uma série de pulsos de eletricidade, pulsos de luz ou
 2. Sinais ópticos - converte sinais elétricos em pulsos de luz.
 3. Sinais sem fio - infravermelho, micro-ondas, ou ondas de rádio pelo ar.
 
-Na maioria das residencias, os sinais de rede são transmitidos através de cabos de cobre ou conexões sem fio habilitadas para Wi-Fi.
+Na maioria das residências, os sinais de rede são transmitidos através de cabos de cobre ou conexões sem fio habilitadas para Wi-Fi.
 As redes de grandes utilizam cabos de fibra óptica para transmissão de dados em longas distâncias.
 
 ### Largura de banda 
+
+As redes precisam ser capazes de transmitir e receber bits em uma taxa muito alta
+
+Largura de banda é a capacidade de um meio de transportar dados.
+A largura de banda digital mede a quantidade de dados que podem fluir de um lugar para outro durante determinado tempo.
+
+Medidas comuns de largura de banda:
+- Milhares de bits por segundo (Kbps)
+- Milhões de bits por segundo (Mbps)
+- Bilhões de bits por segundo (Gbps)
+
+![[Pasted image 20250506123434.png]]
+
+### Taxa de transferência
+
+A taxa de transferência é a medida da transferência de bits através do meio físico durante um determinado período. Porém, devido a vários fatores, a taxa de transferência não corresponde a largura de banda especificada, diversos fatores influenciam a taxa de transferência
+
+- Quantidade de dados enviados e recebidos pela conexão
+- Tipos de dados transmitidos
+- Latência criada pelo número de dispositivos de rede encontrados entre origem e destino
+
+**Latência** se refere ao tempo necessário para os dados viajarem de um ponto a outro, incluindo atrasos.
+
+Em uma rede com vários segmentos, a taxa de transferência não pode ser mais rápida do que o link mais lento do caminho entre o dispositivo emissor e o dispositivo receptor. Basta um segmento no caminho com largura de banda mais baixa para provocar lentidão no rendimento da rede inteira.
+
+Taxa de download e upload.
+
+![[Pasted image 20250506130536.png]]
+
+![[Pasted image 20250506130549.png]]
+
+![[Pasted image 20250506130745.png]]
+
+
