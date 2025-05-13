@@ -102,7 +102,7 @@ Clique no seu roteador vá em config -> Routing -> RIP
 E adiciona os IP's das suas redes, tanto as redes normais dos switches quanto a rede intermediária.
 Faça isso nos dois roteadores conectados e faça o teste dos pacotes dnv.
 
-Porém faça o teste de pacote nessa ordem.
+Teste de pacote:
 - Máquina -> máquina
 - Máquina -> roteador da msm rede
 - Máquina -> roteador de outra rede

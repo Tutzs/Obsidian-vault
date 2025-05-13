@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 Semestre/Redes/Curso Cisco/Módulo 2.md",
+                "file": "7 Semestre/Redes/Aula 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Módulo 2"
+              "title": "Aula 10"
             }
           }
         ]
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,29 +192,30 @@
   },
   "active": "9b23caeb7d68309a",
   "lastOpenFiles": [
-    "7 Semestre/Redes/Curso Cisco/Módulo 1.md",
+    "7 Semestre/Redes/assets/trunk.png",
+    "Pasted image 20250513101503.png",
+    "7 Semestre/Redes/assets/redeF.png",
+    "7 Semestre/Redes/Aula 10.md",
+    "7 Semestre/Redes/assets/pool.png",
+    "7 Semestre/Redes/assets/rede.png",
+    "7 Semestre/Redes/Aula 9.md",
+    "7 Semestre/Redes/Aula 3.md",
+    "7 Semestre/Redes/Aula 2.md",
+    "7 Semestre/Redes/Aula 1.md",
     "7 Semestre/Redes/Curso Cisco/Módulo 2.md",
+    "7 Semestre/Redes/Curso Cisco/Módulo 1.md",
     "7 Semestre/Redes/assets/Pasted image 20250506123434.png",
     "7 Semestre/Redes/assets/Pasted image 20250506130745.png",
     "7 Semestre/Redes/assets/Pasted image 20250506130549.png",
     "7 Semestre/Redes/assets/Pasted image 20250506130536.png",
-    "7 Semestre/Redes/Aula 9.md",
     "7 Semestre/Redes/assets/rip.png",
-    "7 Semestre/Redes/assets/r2.png",
-    "7 Semestre/Redes/assets/r1.png",
-    "7 Semestre/Redes/assets/Pasted image 20250425145630.png",
     "7 Semestre/Redes/Aula 5.md",
     "assets/router1.md",
     "assets",
     "7 Semestre/Redes/Aula 6.md",
-    "7 Semestre/Redes/assets/router1.png",
-    "7 Semestre/Redes/assets/roteador.png",
     "7 Semestre/Redes/Aula 8.md",
     "7 Semestre/Qualidade/Aula 5.md",
     "7 Semestre/Redes/Aula 7.md",
-    "7 Semestre/Redes/Aula 1.md",
-    "7 Semestre/Redes/Aula 2.md",
-    "7 Semestre/Redes/Aula 3.md",
     "7 Semestre/Redes/Aula 4.md",
     "Pasted.md",
     "7 Semestre/Redes/Circuito_revisao_2 - Copia.pkt",
@@ -232,7 +233,6 @@
     "7 Semestre/Compiladores/Aula 04.04.md",
     "7 Semestre/Robótica/Aula 2.md",
     "7 Semestre/Robótica/Aula 3.md",
-    "7 Semestre/EDA2/Aula.md",
     "Excalidraw",
     "7 Semestre/Compiladores",
     "7 Semestre/HC",
