@@ -54,12 +54,13 @@ Cada nó da rede, tem e cumpre seu papel
 Todas as operações são monitoradas.
 ##### Protocolos permitidos na rede:
 Administrador de rede, vai monitorar, analisar, e verificar. Vai escrever e determinar quais regras aplicadas.
-### Host:
+##### Host:
 Qualquer equipamento ligado a rede.
-#### Topologia de uma rede: 
+### Topologia de uma rede: 
 Como ela foi concebida, como ela funciona, se é ligado em anel, ligado em série, formato estrela.
 
 ## Arquitetura de redes
+
 - Modelo OSI - 7 camadas
 - Modelo TCP/IP - 4 camadas
 

@@ -10,7 +10,6 @@
 #### O que é IP
 é um protocolo que a gente utiliza para as maquinas se comuniquem, mesmo não necessariamente tendo internet
 
-
 #### Serviços de rede
 Servidor de arquivo, de web, de banco de dados, de email
 
