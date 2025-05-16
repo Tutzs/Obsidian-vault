@@ -95,7 +95,7 @@ vlan 2 # numero q eu desejo para minha VLAN
 aí iremos entrar no modo de configuração da VLAN e iremos dar um nome a ela
 
 ```
-name Vlan 1
+name Vlan 2
 ```
 
 Agora criamos outra VLAN:
@@ -107,7 +107,7 @@ vlan 3
 E damos um nome para ela:
 
 ```
-name Vlan 2
+name Vlan 3
 ```
 
 Agora entramos na gigabit
