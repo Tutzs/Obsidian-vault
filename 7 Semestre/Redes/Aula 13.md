@@ -68,7 +68,6 @@ Para ver as configurações do dispositivo basta usar esse comando
 do sh run
 ```
 
-
 ### SSH
 
 SSH (Secure Shell) é um protocolo de rede que permite a comunicação segura entre dispositivos em uma rede não segura.
