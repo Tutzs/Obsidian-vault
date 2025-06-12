@@ -48,3 +48,5 @@ do w
 para acessar remoto vai no prompt do pc e coloca 'telnet 192.168.1.1' e digita a senha e entra
 
 wireless Accesspoint-PT-4
+
+
