@@ -20,7 +20,7 @@ Com a rede configurada, vá
 
 Confirme se ele está ligado, se não, ligue ele.
 
-E no campo "*username*" e "*password*" de um login e senha para seu novo cadastro e depois selecione as permissões que esse cadastro terá
+E no campo "*username*" e "*password*" crie um login e senha para seu novo cadastro e depois selecione as permissões que esse cadastro terá
 ![](ftp1.png)
 
 Temos *Write, Read, Delete, Rename, List*.

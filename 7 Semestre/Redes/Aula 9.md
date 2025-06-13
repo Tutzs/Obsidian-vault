@@ -106,7 +106,8 @@ Teste de pacote:
 - Máquina -> máquina
 - Máquina -> roteador da msm rede
 - Máquina -> roteador de outra rede
+- Máquina -> máquina de outra rede
 
-Se tu td der certo deu *Successful*.
+Se td der certo deu *Successful*.
 
 E se quiser testar o *WebBrowser* na outra rede, vc deve colocar um IP estático na máquina da outra rede com o DNS da rede que o servidor está e deve funcionar normalmente.
