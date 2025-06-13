@@ -50,3 +50,22 @@ para acessar remoto vai no prompt do pc e coloca 'telnet 192.168.1.1' e digita 
 wireless Accesspoint-PT-4
 
 
+# Revisão 
+
+Como configurar rede wireless.
+
+Crie uma rede simples, com switch, servidor, router e uma máquina.
+Depois configure o DHCP.
+
+E configure o Router padrão.
+
+Agora pegue um AccessPoint-PT-N e coloque ele e ligue a port0 em alguma interface no switch
+
+Agora entre no AP (Access Point) e configure o SSID dando algum nome e depois o tipo de Autenticação, recomendado WPA-PSK ou o WPA2-PSK e depois escolha um senha com mais de 8 caracteres.
+
+E pronto, agora pegue dispositivos wireless, como o smartphone ou o tablet.
+
+Vá em config -> Wireless0 
+
+E coloque o SSID que você colocou no seu AP, mude a autenticação e coloque a senha e pronto, irá se conectar e se o DHCP estiver funcionando já irá atribuir IP ao dispositivo.
+
