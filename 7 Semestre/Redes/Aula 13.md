@@ -129,10 +129,12 @@ E exigimos na hora de entrar o usuario e senha
 login local
 ```
 
+Saímos e 
+
 Geramos uma chave criptografada
 
 ```
-crypto key generate rsa
+crypto key generate rsa # colocamos 1024 dps
 ```
 
 Opcionalmente colocamos o SSH na versão 2
